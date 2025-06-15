@@ -70,6 +70,8 @@ public class FTask3 {
             count++;
             bottom--;
 
+            if (count >= total) break;
+
             for (i = bottom; i >= top + 1 && count < total; i--) {
                 System.out.print(matrix[i][j] + " ");
                 count++;

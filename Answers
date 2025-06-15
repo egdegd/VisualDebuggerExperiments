@@ -1,43 +1,69 @@
 Task1
-
+not to the end of the list algo goes i seen it from debuger
 Task2
-
+j != k, i seen it from debuger
 Task3
-
+need to add if (count >= total) break;, but very hard to find where.
 Task4
-
+very annoying, no need to +1 in -> and top direction
 Task5
-
+very helpful
 Task6
-
+very cool animation with circle
 
 Rate your agreement with the following statements on a scale from 1 (Strongly Disagree) to 7 (Strongly Agree):
 
 	1.	The visualizations helped me understand the algorithm’s logic more quickly.
 
+	7
+
 	2.	It was easier to find the bug using the Visual Debugger than with a standard debugger.
+
+	7
 
 	3.	The plugin’s interface was clear and easy to use.
 
+	4
+
 	4.	The highlighted elements (like indices or current node) were useful for following the program flow.
+
+	6
 
 	5.	The diagrams reflected the code behavior accurately.
 
+	7
+
 	6.	I felt more confident in my debugging process with the Visual Debugger.
+
+	7
 
 	7.	The tool reduced my cognitive load compared to traditional debugging.
 
+	7
+
 	8.	I would like to use this tool when learning or teaching data structures.
 
+	7
+
 	9.	I would recommend the Visual Debugger to my classmates or friends.
+
+	7
 
 
 Please answer the following questions briefly:
 
  	10.	What specific features of the Visual Debugger did you find most helpful?
 
+ 	circle of linked list. and 2d array nice
+
  	11.	Were there any moments where the visualization confused or misled you? Please describe.
+
+ 	yes when 2 arrows go to each other. also when indices are shifted by 1
 
  	12.	Did the tool change the way you approached debugging or algorithm analysis? How?
 
+ 	yes now i am just watching pictures instead of thinking and reading code
+
  	13.	What improvements would you suggest for future versions of the Visual Debugger?
+
+ 	better ui, more accurate predictions

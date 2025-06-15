@@ -14,7 +14,7 @@ For the input:
     int[] nums = {-1, 0, 1, 2, -4};
 The expected output is:
     [-1, 0, 1]
-But the program currently prints an incorrect triplet:
+But the program currently also prints an incorrect triplet:
     [-4, 2, 2]
 
 Your Task
@@ -35,7 +35,7 @@ public class FTask2 {
             int j = i + 1;
             int k = nums.length - 1;
 
-            while (j <= k) {
+            while (j < k) {
                 int sum = nums[i] + nums[j] + nums[k];
 
                 if (sum == 0) {
