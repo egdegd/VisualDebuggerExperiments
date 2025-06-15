@@ -41,7 +41,6 @@ public class FTask2 {
                 if (sum == 0) {
                     System.out.println(Arrays.asList(nums[i], nums[j], nums[k]));
 
-                    // Bug introduced here — incorrect condition in while
                     while (j < k && nums[j] == nums[j + 1]) j++;
 
                     while (j < k && nums[k] == nums[k - 1]) k--;
