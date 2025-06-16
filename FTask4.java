@@ -19,6 +19,9 @@ For the input:
     text2 = "acet";
 The correct LCS is "ace" with a length of 3. However, the given program outputs 4.
 
+In the dynamic programming solution, the value at `dp[i][j]` represents the length of the longest common subsequence between the prefixes `text1[0..i-1]` and `text2[0..j-1]`.
+This means we compare the first `i` characters of `text1` and the first `j` characters of `text2`.
+
 Your Task
     •	Find and fix the bug in the provided code.
     •	Make as few modifications as possible to achieve correct behavior.

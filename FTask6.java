@@ -1,19 +1,20 @@
 /*
 Problem Statement
 
-Given the head of a linked list, rotate the list to the right by k places.
+Given the head of a singly linked list, rotate the list to the right by `k` places.
 
-You are given a Java implementation that tries to solve this task.
+You are provided with a Java implementation that attempts to solve this task using a cycle-based approach.
 
-However, it contains a bug.
+However, there is a bug in the implementation that causes incorrect output for certain values of `k`.
 
-For the input list:
-    1 -> 2 -> 3 -> 4 -> 5
-and value of k is 2
-The expected output is:
-    4 -> 5 -> 1 -> 2 -> 3
+For example, for the input list:
+    1 → 2 → 3 → 4 → 5
+and k = 2,
+the expected output is:
+    4 → 5 → 1 → 2 → 3
+
 But the current program outputs:
-    5 -> 1 -> 2 -> 3 -> 4
+    5 → 1 → 2 → 3 → 4
 
 Your Task
     •	Find and fix the bug in the provided code.

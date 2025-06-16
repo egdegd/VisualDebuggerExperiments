@@ -45,18 +45,15 @@ public class FTask3 {
                 System.out.print(matrix[i][j] + " ");
                 count++;
             }
-            if (count >= total) break;
             System.out.print(matrix[i][j] + " ");
             count++;
             top++;
 
 
-            if (count >= total) break;
             for (i = top; i <= bottom - 1 && count < total; i++) {
                 System.out.print(matrix[i][j] + " ");
                 count++;
             }
-            if (count >= total) break;
             System.out.print(matrix[i][j] + " ");
             count++;
 

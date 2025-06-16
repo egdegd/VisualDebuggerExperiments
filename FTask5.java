@@ -1,6 +1,14 @@
 /*
 You are given an implementation of insertion into a sorted doubly linked list.
 
+The list should maintain ascending order after each insertion.
+
+For example, if we sequentially insert the values 2, 10, 3, and 4 into a list that initially contains a single node with value 1, the final list should be:
+    1 → 2 → 3 → 4 → 10
+
+However, the current implementation is incorrect. For the same sequence of insertions, the program outputs:
+    1 → 2 → 4 → 10
+
 Your Task
     •	Find and fix the bug in the provided code.
     •	Make as few modifications as possible to achieve correct behavior.

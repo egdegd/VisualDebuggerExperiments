@@ -5,8 +5,6 @@ You are given an array of integers. Your task is to find all unique triplets (i,
 	•	i < j < k
 	•	nums[i] + nums[j] + nums[k] == 0
 
-Each triplet must be unique, meaning that duplicate combinations should not appear in the output.
-
 You are given a Java implementation that attempts to solve this problem.
 However, there is a subtle bug in the code that leads to incorrect results.
 
@@ -14,8 +12,9 @@ For the input:
     int[] nums = {-1, 0, 1, 2, -4};
 The expected output is:
     [-1, 0, 1]
-But the program currently prints an incorrect triplet:
+But the program currently prints two triplets:
     [-4, 2, 2]
+    [-1, -0, 1]
 
 Your Task
     •	Find and fix the bug in the provided code.

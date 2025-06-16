@@ -1,6 +1,6 @@
 /*
 You are given an implementation of some sorting algorithm.
-This algorithm  is supposed to sort an array of integers in non-decreasing order.
+This algorithm is supposed to sort an array of integers in non-decreasing order.
 
 For example, with the input:
     int[] arr = {1, 3, 5, 7, 9, 2, 4, 6, 8};
