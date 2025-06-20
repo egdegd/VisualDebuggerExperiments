@@ -54,7 +54,7 @@ class Solution {
 
         last.next = head;
 
-        int rotations = k % length;
+        int rotations = k+1 % length;
         ListNode newLast = head;
         for (int i = 0; i < length - rotations; i++) {
             newLast = newLast.next;

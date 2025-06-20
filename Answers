@@ -1,43 +1,44 @@
 Task1
-
+the length of the code was not the correct size.
 Task2
-
+Try to erase also duplicates.
 Task3
-
+There was no break of the pattern for the last step of count.
 Task4
-
+Didn't find it.
 Task5
-
+The last step took 2 step behind instead of one step.
 Task6
-
+There is needed one more step.
 
 Rate your agreement with the following statements on a scale from 1 (Strongly Disagree) to 7 (Strongly Agree):
 
 	1.	The visualizations helped me understand the algorithm’s logic more quickly.
-
+    6
 	2.	It was easier to find the bug using the Visual Debugger than with a standard debugger.
-
+    6
 	3.	The plugin’s interface was clear and easy to use.
-
+    4
 	4.	The highlighted elements (like indices or current node) were useful for following the program flow.
-
+    5
 	5.	The diagrams reflected the code behavior accurately.
-
+     7
 	6.	I felt more confident in my debugging process with the Visual Debugger.
-
+    2
 	7.	The tool reduced my cognitive load compared to traditional debugging.
-
+    4
 	8.	I would like to use this tool when learning or teaching data structures.
-
+    7
 	9.	I would recommend the Visual Debugger to my classmates or friends.
-
+    7
 
 Please answer the following questions briefly:
 
  	10.	What specific features of the Visual Debugger did you find most helpful?
-
+    The visualization of each step of the code.
  	11.	Were there any moments where the visualization confused or misled you? Please describe.
-
+    No just the code itself
  	12.	Did the tool change the way you approached debugging or algorithm analysis? How?
-
+     Yes because I could see more clearly how the algorithm works
  	13.	What improvements would you suggest for future versions of the Visual Debugger?
+    I don't know. It seems fine.
