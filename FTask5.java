@@ -31,7 +31,7 @@ public class FTask5 {
         Node newNode = new Node(x);
         Node current = head;
 
-        while (current.value < x && current.next != null) {
+        while (current.value < x && current.next != null && current.next.value<x) {
             current = current.next;
         }
 

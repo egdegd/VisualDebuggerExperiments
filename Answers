@@ -1,27 +1,28 @@
 Task1
-
+I changed n-1 by n in the loop of the sort function
 Task2
 
 Task3
-
+I commented the print in the end of the function printing the matrix
 Task4
-
+I changed M and N in the index of the return of the function by M-1 and N-1
 Task5
 
 Task6
-
+I added -1 to the bound in the for loop of the rotation function
 
 Rate your agreement with the following statements on a scale from 1 (Strongly Disagree) to 7 (Strongly Agree):
 
 	1.	The visualizations helped me understand the algorithm’s logic more quickly.
-
+	7
 	2.	It was easier to find the bug using the Visual Debugger than with a standard debugger.
-
+	7
 	3.	The plugin’s interface was clear and easy to use.
-
+	7
 	4.	The highlighted elements (like indices or current node) were useful for following the program flow.
-
+	7
 	5.	The diagrams reflected the code behavior accurately.
+	7
 
 	6.	I felt more confident in my debugging process with the Visual Debugger.
 

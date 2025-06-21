@@ -32,7 +32,7 @@ public class FTask3 {
     public static void printCustomSpiral(int[][] matrix) {
         int n = matrix.length;
         int count = 0;
-        int total = n * n;
+        int total = n * n ;
 
         int top = 0, bottom = n - 1;
         int left = 0, right = n - 1;
@@ -72,7 +72,7 @@ public class FTask3 {
                 count++;
             }
 
-            System.out.print(matrix[i][j] + " ");
+           // System.out.print(matrix[i][j] + " ");
             count++;
             
             left++;
