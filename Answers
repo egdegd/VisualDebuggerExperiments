@@ -1,43 +1,44 @@
 Task1
-
+The outer loop didnt handle the comparaison of the two last elements(n-1 to n)
 Task2
-
+Changed i<=j to i<j
 Task3
-
+add if condition (total=count)
 Task4
-
+removed the last case
 Task5
-
+add current.prev = newNode
 Task6
 
 
 Rate your agreement with the following statements on a scale from 1 (Strongly Disagree) to 7 (Strongly Agree):
 
 	1.	The visualizations helped me understand the algorithm’s logic more quickly.
-
+        6
 	2.	It was easier to find the bug using the Visual Debugger than with a standard debugger.
-
+        6
 	3.	The plugin’s interface was clear and easy to use.
-
+        7
 	4.	The highlighted elements (like indices or current node) were useful for following the program flow.
-
+        7
 	5.	The diagrams reflected the code behavior accurately.
-
+        7
 	6.	I felt more confident in my debugging process with the Visual Debugger.
-
+        6
 	7.	The tool reduced my cognitive load compared to traditional debugging.
-
+        6
 	8.	I would like to use this tool when learning or teaching data structures.
-
+        6
 	9.	I would recommend the Visual Debugger to my classmates or friends.
-
+        7
 
 Please answer the following questions briefly:
 
  	10.	What specific features of the Visual Debugger did you find most helpful?
-
+        the visualization made for the data structures
  	11.	Were there any moments where the visualization confused or misled you? Please describe.
-
+        No
  	12.	Did the tool change the way you approached debugging or algorithm analysis? How?
-
+        No, just added the visualization of the execution of the program which is very helpful and efficient rather than doing it on a paper
  	13.	What improvements would you suggest for future versions of the Visual Debugger?
+ 	    All good.
