@@ -1,43 +1,55 @@
 Task1
-
+the loop was running from 1 to n-1 so the last elements weren't corretly swapped
 Task2
-
+there was a false comparison made that added wrong outputs
 Task3
-
+we needed to add a condition to make sure the count was less that the total to print
 Task4
-
+we were adding more elements  than necessary
 Task5
 
 Task6
-
+--
 
 Rate your agreement with the following statements on a scale from 1 (Strongly Disagree) to 7 (Strongly Agree):
 
 	1.	The visualizations helped me understand the algorithm’s logic more quickly.
+	yes i think it makes a big difference
 
 	2.	It was easier to find the bug using the Visual Debugger than with a standard debugger.
+	yes because sometimes seeing data structures helps with understanding
 
 	3.	The plugin’s interface was clear and easy to use.
+	yes
 
 	4.	The highlighted elements (like indices or current node) were useful for following the program flow.
+	yes
 
 	5.	The diagrams reflected the code behavior accurately.
+	yes
 
 	6.	I felt more confident in my debugging process with the Visual Debugger.
+	yes i feel like i cant see errors more quickly
 
 	7.	The tool reduced my cognitive load compared to traditional debugging.
+	yes because i dont need to imagine how the code runs , i can just see it and follow it
 
 	8.	I would like to use this tool when learning or teaching data structures.
+	yes
 
 	9.	I would recommend the Visual Debugger to my classmates or friends.
+	yesss
 
 
 Please answer the following questions briefly:
 
  	10.	What specific features of the Visual Debugger did you find most helpful?
+ 	visualisation of data structures
 
  	11.	Were there any moments where the visualization confused or misled you? Please describe.
-
+no but sometimes it can be hard to follow if multiple elements are moving at the same time
  	12.	Did the tool change the way you approached debugging or algorithm analysis? How?
+ 	 i could see it
 
  	13.	What improvements would you suggest for future versions of the Visual Debugger?
+ 	maybe the size because the window is small and sometimes i would like to adjust it

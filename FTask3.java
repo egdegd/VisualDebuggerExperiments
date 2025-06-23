@@ -63,19 +63,24 @@ public class FTask3 {
                 System.out.print(matrix[i][j] + " ");
                 count++;
             }
-            System.out.print(matrix[i][j] + " ");
-            count++;
-            bottom--;
+            if(count<total){
+                System.out.print(matrix[i][j] + " ");
+                count++;
+                bottom--;
+            }
 
-            for (i = bottom; i >= top + 1 && count < total; i--) {
+
+            for (i = bottom; i >= top +1 && count < total; i--) {
                 System.out.print(matrix[i][j] + " ");
                 count++;
             }
+            if(count<total){
+                System.out.print(matrix[i][j] + " ");
+                count++;
 
-            System.out.print(matrix[i][j] + " ");
-            count++;
-            
-            left++;
+                left++;
+            }
+
         }
     }
 

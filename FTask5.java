@@ -48,6 +48,7 @@ public class FTask5 {
                 current.prev.next = newNode;
             }
         }
+        current.prev= newNode;
         if (head.value < newNode.value) {
             return head;
         } else {
