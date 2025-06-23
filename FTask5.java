@@ -41,9 +41,9 @@ public class FTask5 {
             current.next = newNode;
         } else {
             // Insert before current
-            newNode.next = current;
-            newNode.prev = current.prev;
 
+            newNode.prev = current;
+            newNode.next = current.next;
             if (current.prev != null) {
                 current.prev.next = newNode;
             }

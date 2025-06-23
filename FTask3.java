@@ -31,7 +31,7 @@ Your Task
 public class FTask3 {
     public static void printCustomSpiral(int[][] matrix) {
         int n = matrix.length;
-        int count = 0;
+        int count =0;
         int total = n * n;
 
         int top = 0, bottom = n - 1;
@@ -56,7 +56,6 @@ public class FTask3 {
             }
             System.out.print(matrix[i][j] + " ");
             count++;
-
             right--;
 
             for (j = right; j >= left + 1 && count < total; j--) {
@@ -72,10 +71,11 @@ public class FTask3 {
                 count++;
             }
 
-            System.out.print(matrix[i][j] + " ");
-            count++;
-            
-            left++;
+            if (count < total) {
+                System.out.print(matrix[i][j] + " ");
+                count++;
+                left++;
+            }
         }
     }
 

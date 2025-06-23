@@ -20,8 +20,8 @@ public class FTask1 {
 
     public static void sort(int[] arr) {
         int n = arr.length;
-        for (int i = 0; i < n - 1; i++) {
-            for (int j = 0; j < n - 1; j++) {
+        for (int i = 0; i < n ; i++) {
+            for (int j = 0; j < n ; j++) {
                 if (arr[i] < arr[j]) {
                     var temp = arr[i];
                     arr[i] = arr[j];
@@ -32,7 +32,7 @@ public class FTask1 {
     }
 
     public static void main(String[] args) {
-        int[] arr = new int[]{1, 3, 5, 7, 9, 2, 4, 6, 8};
+        int[] arr = new int[]{1, 3, 5, 7, 9, 8, 4, 6, 2};
         sort(arr);
         for (int i = 0; i < arr.length; i++) {
             System.out.print(arr[i] + " ");

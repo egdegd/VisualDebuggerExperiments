@@ -1,43 +1,45 @@
 Task1
-
+la boucle n itere pas sur le dernier element
 Task2
-
+il y avait une faute dans l inegalite
 Task3
-
+il manquer une condition sur le dernier ajout
 Task4
-
+on prend le maximun alors que il  n y a pas beoin de l faire
 Task5
-
+l ordre des node n etait pas possible
 Task6
+la condition de la boucle etait fausse
 
 
 Rate your agreement with the following statements on a scale from 1 (Strongly Disagree) to 7 (Strongly Agree):
 
 	1.	The visualizations helped me understand the algorithm’s logic more quickly.
-
+7
 	2.	It was easier to find the bug using the Visual Debugger than with a standard debugger.
-
+5
 	3.	The plugin’s interface was clear and easy to use.
-
+6
 	4.	The highlighted elements (like indices or current node) were useful for following the program flow.
-
+5
 	5.	The diagrams reflected the code behavior accurately.
-
+5
 	6.	I felt more confident in my debugging process with the Visual Debugger.
-
+4
 	7.	The tool reduced my cognitive load compared to traditional debugging.
-
+6
 	8.	I would like to use this tool when learning or teaching data structures.
-
+7
 	9.	I would recommend the Visual Debugger to my classmates or friends.
-
+6
 
 Please answer the following questions briefly:
 
  	10.	What specific features of the Visual Debugger did you find most helpful?
-
+colors and space repartition
  	11.	Were there any moments where the visualization confused or misled you? Please describe.
-
+no
  	12.	Did the tool change the way you approached debugging or algorithm analysis? How?
-
+yes
  	13.	What improvements would you suggest for future versions of the Visual Debugger?
+more colors and better design maybe
