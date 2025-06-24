@@ -31,10 +31,11 @@ public class FTask2 {
 
         for (int i = 0; i < nums.length; i++) {
             if (i > 0 && nums[i] == nums[i - 1]) continue;
+//            if (nums[i] == nums[i - 1]) continue;
             int j = i + 1;
             int k = nums.length - 1;
 
-            while (j <= k) {
+            while (j < k) {
                 int sum = nums[i] + nums[j] + nums[k];
 
                 if (sum == 0) {

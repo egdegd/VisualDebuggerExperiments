@@ -1,43 +1,59 @@
 Task1
-
+The loops weren't going far enough
 Task2
-
+The programm was checking if j <= k but we need j < k
 Task3
-
+It wassing a condition to stop when count had reached total
 Task4
 
 Task5
 
 Task6
-
+At the end the loop was going too far without relying on the fact that the last element already had been rotated
 
 Rate your agreement with the following statements on a scale from 1 (Strongly Disagree) to 7 (Strongly Agree):
 
 	1.	The visualizations helped me understand the algorithm’s logic more quickly.
+	7
 
 	2.	It was easier to find the bug using the Visual Debugger than with a standard debugger.
+	6
 
 	3.	The plugin’s interface was clear and easy to use.
+	7
 
 	4.	The highlighted elements (like indices or current node) were useful for following the program flow.
+	7
 
 	5.	The diagrams reflected the code behavior accurately.
+	6
 
 	6.	I felt more confident in my debugging process with the Visual Debugger.
+	7
 
 	7.	The tool reduced my cognitive load compared to traditional debugging.
+	7
 
 	8.	I would like to use this tool when learning or teaching data structures.
+	7
 
 	9.	I would recommend the Visual Debugger to my classmates or friends.
+	5.5
 
 
 Please answer the following questions briefly:
 
  	10.	What specific features of the Visual Debugger did you find most helpful?
+ 	The fact of being able to visualize what happens in data structures, which can often be pretty confusing, and without having to go
+ 	too deeply in the program
 
  	11.	Were there any moments where the visualization confused or misled you? Please describe.
+ 	No, not really
 
  	12.	Did the tool change the way you approached debugging or algorithm analysis? How?
+ 	Yes, as mentioned before, I find that you have to go less deeper in the program to find what's wrong, but maybe
+ 	(at least when you learn programming) it's sometimes better to have better unterstandings of how the program really works
 
  	13.	What improvements would you suggest for future versions of the Visual Debugger?
+ 	Some features in ohter fields than data structures? But honestly I found it really efficient already
+

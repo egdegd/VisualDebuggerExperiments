@@ -43,6 +43,8 @@ public class FTask4 {
 
         for (int i = 1; i <= M; i++) {
             for (int j = 1; j <= N; j++) {
+//                char c1 = text1.charAt(i - 1);
+//                char c2 = text2.charAt(j - 1);
                 if (text1.charAt(i - 1) == text2.charAt(j - 1)) {
                     dp[i][j] = Math.max(Math.max(dp[i - 1][j - 1] + 1, dp[i][j - 1] + 1), dp[i-1][j] + 1);
                 } else {
