@@ -1,43 +1,58 @@
 Task1
-
+< instead of <= in loops
 Task2
-
+j = k in the cornercase (vizualized via debugger)
 Task3
-
+all prints are wrapped in condition on count < total, except for the latest
 Task4
-
+unnecessary max function - we only need to take diagonal adjacent element
 Task5
-
+forgotten to update current prev link
 Task6
+-1 rotation operation
 
 
 Rate your agreement with the following statements on a scale from 1 (Strongly Disagree) to 7 (Strongly Agree):
 
 	1.	The visualizations helped me understand the algorithm’s logic more quickly.
+	6
 
-	2.	It was easier to find the bug using the Visual Debugger than with a standard debugger.
+	2.	It was easier to find the bug using the Visual Debugger than with a standard debugger
+	7
 
 	3.	The plugin’s interface was clear and easy to use.
+	7
 
 	4.	The highlighted elements (like indices or current node) were useful for following the program flow.
+	7
 
 	5.	The diagrams reflected the code behavior accurately.
+	7
 
 	6.	I felt more confident in my debugging process with the Visual Debugger.
+	6
 
 	7.	The tool reduced my cognitive load compared to traditional debugging.
+	6 (7 for linked lists and matrices, 5 for 1d arrays)
 
 	8.	I would like to use this tool when learning or teaching data structures.
+	7
 
 	9.	I would recommend the Visual Debugger to my classmates or friends.
+	7
 
 
 Please answer the following questions briefly:
 
  	10.	What specific features of the Visual Debugger did you find most helpful?
+ 	viz for matrices and linked lists, current indices highlights
 
  	11.	Were there any moments where the visualization confused or misled you? Please describe.
+ 	in 5 task when 3 changed to 4, I didn't notice it (I expected something to happen with 3, but at that step I didn't see any changes and was a bit confused)
+ 	this was me not paying attention or the tool lacks diff highlights (highlight node with 3 at the moment it changes to 4)
 
  	12.	Did the tool change the way you approached debugging or algorithm analysis? How?
+ 	when facing bugged function, I can imagine the problem and then proceed finding it with viz tool. e.g., in 4th task, I knew that i,j element should take i-1,j-1 and make +1, but then I noticed +2
 
  	13.	What improvements would you suggest for future versions of the Visual Debugger?
+ 	make 'back' button, when I accidentally missed the buggy moment in the code

@@ -37,7 +37,7 @@ public class FTask2 {
             while (j <= k) {
                 int sum = nums[i] + nums[j] + nums[k];
 
-                if (sum == 0) {
+                if (sum == 0 && i < j && j < k) {
                     System.out.println(Arrays.asList(nums[i], nums[j], nums[k]));
 
                     while (j < k && nums[j] == nums[j + 1]) j++;
