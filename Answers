@@ -1,43 +1,58 @@
 Task1
-
+i < n - 1 instead of n made last iteration not sort the 8 and 9
 Task2
-
+j could be equal to k and but we want unique triplets
 Task3
-
+added checks for count if it reached total or not
 Task4
-
+detected acc and ac as 3 instead of 2 i.e. issue with repeating characters fixed by fixing dp formula
 Task5
-
+(run out of the time)
+forgot to set the previous of current to our node when placing it before current
 Task6
-
+adjusted bounds in for loop
 
 Rate your agreement with the following statements on a scale from 1 (Strongly Disagree) to 7 (Strongly Agree):
 
 	1.	The visualizations helped me understand the algorithm’s logic more quickly.
+	7
 
 	2.	It was easier to find the bug using the Visual Debugger than with a standard debugger.
+	7
 
 	3.	The plugin’s interface was clear and easy to use.
+	6
 
 	4.	The highlighted elements (like indices or current node) were useful for following the program flow.
+	7
 
 	5.	The diagrams reflected the code behavior accurately.
+	7
 
 	6.	I felt more confident in my debugging process with the Visual Debugger.
+	6
 
 	7.	The tool reduced my cognitive load compared to traditional debugging.
+	7
 
 	8.	I would like to use this tool when learning or teaching data structures.
+	5
 
 	9.	I would recommend the Visual Debugger to my classmates or friends.
+	6
 
 
 Please answer the following questions briefly:
 
  	10.	What specific features of the Visual Debugger did you find most helpful?
+ 	Linked list visualization and also indices in arrays
 
  	11.	Were there any moments where the visualization confused or misled you? Please describe.
+    No
 
  	12.	Did the tool change the way you approached debugging or algorithm analysis? How?
+ 	I was more eager to directly turn it on and see what happens as opposed to conventional debugger which is my last option after prints fail
 
  	13.	What improvements would you suggest for future versions of the Visual Debugger?
+ 	Have a popup window instead of a split screen
+ 	Have other variables in the program in the bottom half of the window
