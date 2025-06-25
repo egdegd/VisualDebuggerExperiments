@@ -1,43 +1,45 @@
 Task1
-
+The iteration runs up to index 7 while the array has length 9 thus 8 indexes.
 Task2
 
 Task3
+There isn't any check for count variable to see if it has printed 16 times or not at the end.
 
 Task4
 
 Task5
-
+Update the end list (the one with biggest value) 's .prev pointer to the inserted smaller value list
 Task6
 
 
 Rate your agreement with the following statements on a scale from 1 (Strongly Disagree) to 7 (Strongly Agree):
 
 	1.	The visualizations helped me understand the algorithm’s logic more quickly.
-
+7
 	2.	It was easier to find the bug using the Visual Debugger than with a standard debugger.
-
+6
 	3.	The plugin’s interface was clear and easy to use.
-
+6
 	4.	The highlighted elements (like indices or current node) were useful for following the program flow.
-
+7
 	5.	The diagrams reflected the code behavior accurately.
-
+7
 	6.	I felt more confident in my debugging process with the Visual Debugger.
-
+7
 	7.	The tool reduced my cognitive load compared to traditional debugging.
-
+7
 	8.	I would like to use this tool when learning or teaching data structures.
-
+7
 	9.	I would recommend the Visual Debugger to my classmates or friends.
-
+7
 
 Please answer the following questions briefly:
 
  	10.	What specific features of the Visual Debugger did you find most helpful?
-
+The visual indications for example current variable points to what linked list is extremely useful.
  	11.	Were there any moments where the visualization confused or misled you? Please describe.
-
+Not really.
  	12.	Did the tool change the way you approached debugging or algorithm analysis? How?
-
+Yes, it helps me see the pattern made by the code without knowing what the code is doing so i can see clearly the algorithm.
  	13.	What improvements would you suggest for future versions of the Visual Debugger?
+Naming the in-memory name e.g., Node@123. You can put that directly onto the visual of the linked list so that when we have distinctions between different linked lists.
