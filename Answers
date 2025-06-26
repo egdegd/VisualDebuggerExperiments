@@ -1,43 +1,44 @@
 Task1
-
+First index i did not cover the whole array.
 Task2
-
+index j should be < index k
 Task3
-
+Missing condition on total count on last print
 Task4
 
 Task5
-
+Missed updating current prev node
 Task6
-
+Number of shifts done is not correct. Missing -1 in lastNew loop
 
 Rate your agreement with the following statements on a scale from 1 (Strongly Disagree) to 7 (Strongly Agree):
 
 	1.	The visualizations helped me understand the algorithm’s logic more quickly.
-
+    7
 	2.	It was easier to find the bug using the Visual Debugger than with a standard debugger.
-
+    7
 	3.	The plugin’s interface was clear and easy to use.
-
+    7
 	4.	The highlighted elements (like indices or current node) were useful for following the program flow.
-
+    7
 	5.	The diagrams reflected the code behavior accurately.
-
+    7
 	6.	I felt more confident in my debugging process with the Visual Debugger.
-
+    6
 	7.	The tool reduced my cognitive load compared to traditional debugging.
-
+    6
 	8.	I would like to use this tool when learning or teaching data structures.
-
+    7
 	9.	I would recommend the Visual Debugger to my classmates or friends.
-
+    7
 
 Please answer the following questions briefly:
 
  	10.	What specific features of the Visual Debugger did you find most helpful?
-
+    Visualisation of current indices on the arrays
  	11.	Were there any moments where the visualization confused or misled you? Please describe.
-
+    No
  	12.	Did the tool change the way you approached debugging or algorithm analysis? How?
-
+    Yes I can first run through the whole debug without understanding the code before to understand the algorithm
  	13.	What improvements would you suggest for future versions of the Visual Debugger?
+    Add all used variables to the diagram
