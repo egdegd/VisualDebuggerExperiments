@@ -1,43 +1,45 @@
 Task1
-
+the iteration didnt go through the whole array
 Task2
-
+the iteration made sure that j was inferior or equal compared to k but it should be onl inferior to k or else we will sum two times the same element
 Task3
 
 Task4
 
 Task5
-
+run out ot the time
+the prev node wasnt well atttached to the real previous one
 Task6
 
 
 Rate your agreement with the following statements on a scale from 1 (Strongly Disagree) to 7 (Strongly Agree):
 
 	1.	The visualizations helped me understand the algorithm’s logic more quickly.
-
+7
 	2.	It was easier to find the bug using the Visual Debugger than with a standard debugger.
-
+7
 	3.	The plugin’s interface was clear and easy to use.
-
+7
 	4.	The highlighted elements (like indices or current node) were useful for following the program flow.
-
+7
 	5.	The diagrams reflected the code behavior accurately.
-
+7
 	6.	I felt more confident in my debugging process with the Visual Debugger.
-
+7
 	7.	The tool reduced my cognitive load compared to traditional debugging.
-
+7
 	8.	I would like to use this tool when learning or teaching data structures.
-
+7
 	9.	I would recommend the Visual Debugger to my classmates or friends.
-
+7
 
 Please answer the following questions briefly:
 
  	10.	What specific features of the Visual Debugger did you find most helpful?
-
+The fact that i can visualise the steps makes it easier
  	11.	Were there any moments where the visualization confused or misled you? Please describe.
-
+no, on the contrary
  	12.	Did the tool change the way you approached debugging or algorithm analysis? How?
-
+Not really, it was just easier to follow
  	13.	What improvements would you suggest for future versions of the Visual Debugger?
+ maybe just the capacity to return one step back
