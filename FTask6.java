@@ -40,6 +40,7 @@ class ListNode {
 
 class Solution {
     public ListNode rotateRight(ListNode head, int k) {
+        k++;
         if (k < 1 || head == null || head.next == null) {
             return head;
         }

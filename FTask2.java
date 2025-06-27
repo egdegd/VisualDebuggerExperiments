@@ -30,7 +30,7 @@ public class FTask2 {
         Arrays.sort(nums);
 
         for (int i = 0; i < nums.length; i++) {
-            if (i > 0 && nums[i] == nums[i - 1]) continue;
+            if (i > 0) continue;
             int j = i + 1;
             int k = nums.length - 1;
 
