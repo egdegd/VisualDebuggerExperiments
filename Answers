@@ -1,7 +1,7 @@
 Task1
 
 Task2
-
+less instead of less or equal in order to forbid j and k to point at the same index
 Task3
 
 Task4
@@ -9,35 +9,36 @@ Task4
 Task5
 
 Task6
-
+we was doing one rotation less that what we should do
 
 Rate your agreement with the following statements on a scale from 1 (Strongly Disagree) to 7 (Strongly Agree):
 
 	1.	The visualizations helped me understand the algorithm’s logic more quickly.
-
+6
 	2.	It was easier to find the bug using the Visual Debugger than with a standard debugger.
-
+6
 	3.	The plugin’s interface was clear and easy to use.
-
+7
 	4.	The highlighted elements (like indices or current node) were useful for following the program flow.
-
+5
 	5.	The diagrams reflected the code behavior accurately.
-
+7
 	6.	I felt more confident in my debugging process with the Visual Debugger.
-
+7
 	7.	The tool reduced my cognitive load compared to traditional debugging.
-
+7
 	8.	I would like to use this tool when learning or teaching data structures.
-
+6
 	9.	I would recommend the Visual Debugger to my classmates or friends.
-
+4
 
 Please answer the following questions briefly:
 
  	10.	What specific features of the Visual Debugger did you find most helpful?
-
+seeing the whole strucure at any time and at the same place (it doesn't move)
  	11.	Were there any moments where the visualization confused or misled you? Please describe.
-
+no it was very clear and easy to understand intuitively
  	12.	Did the tool change the way you approached debugging or algorithm analysis? How?
-
+yes, without the tool i was reading the lines and trying to understand exactly what they were doing, and with the tool i was more trying to understand the general concept without putting effort in looking at details
  	13.	What improvements would you suggest for future versions of the Visual Debugger?
+no ideas
