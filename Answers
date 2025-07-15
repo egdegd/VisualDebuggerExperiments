@@ -1,43 +1,57 @@
 Task1
-
+Wrong range of the loop
 Task2
-
+The same number was counted twice
 Task3
-
+Need to check the value of total
 Task4
-
+The DP formula was wrong, no need to take maximum.
 Task5
+The previous pointer was missed when inserting the node
 
 Task6
-
+One extra step
 
 Rate your agreement with the following statements on a scale from 1 (Strongly Disagree) to 7 (Strongly Agree):
 
 	1.	The visualizations helped me understand the algorithm’s logic more quickly.
+	6
 
 	2.	It was easier to find the bug using the Visual Debugger than with a standard debugger.
+	7
 
 	3.	The plugin’s interface was clear and easy to use.
+	5
 
 	4.	The highlighted elements (like indices or current node) were useful for following the program flow.
+	7
 
 	5.	The diagrams reflected the code behavior accurately.
+	7
 
 	6.	I felt more confident in my debugging process with the Visual Debugger.
+	7
 
 	7.	The tool reduced my cognitive load compared to traditional debugging.
+	6
 
 	8.	I would like to use this tool when learning or teaching data structures.
+	7
 
 	9.	I would recommend the Visual Debugger to my classmates or friends.
+	7
 
 
 Please answer the following questions briefly:
 
  	10.	What specific features of the Visual Debugger did you find most helpful?
+    All features were good
 
  	11.	Were there any moments where the visualization confused or misled you? Please describe.
+    Only once when many elements moved at the same time, it was hard to follow.
 
  	12.	Did the tool change the way you approached debugging or algorithm analysis? How?
+    Yes, I focused more on the result of each line, not just reading the code.
 
  	13.	What improvements would you suggest for future versions of the Visual Debugger?
+ 	Add the animation and the ability to go back one step.

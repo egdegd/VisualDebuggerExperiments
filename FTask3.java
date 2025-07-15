@@ -71,6 +71,7 @@ public class FTask3 {
                 System.out.print(matrix[i][j] + " ");
                 count++;
             }
+            if (count == total) break;
 
             System.out.print(matrix[i][j] + " ");
             count++;
