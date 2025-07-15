@@ -72,8 +72,11 @@ public class FTask3 {
                 count++;
             }
 
-            System.out.print(matrix[i][j] + " ");
-            count++;
+            if (count < total) {
+                System.out.print(matrix[i][j] + " ");
+                count++;
+            }
+
             
             left++;
         }
