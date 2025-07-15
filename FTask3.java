@@ -45,6 +45,8 @@ public class FTask3 {
                 System.out.print(matrix[i][j] + " ");
                 count++;
             }
+            if (count == total) break;
+
             System.out.print(matrix[i][j] + " ");
             count++;
             top++;
@@ -54,6 +56,8 @@ public class FTask3 {
                 System.out.print(matrix[i][j] + " ");
                 count++;
             }
+            if (count == total) break;
+
             System.out.print(matrix[i][j] + " ");
             count++;
 
@@ -63,6 +67,8 @@ public class FTask3 {
                 System.out.print(matrix[i][j] + " ");
                 count++;
             }
+            if (count == total) break;
+
             System.out.print(matrix[i][j] + " ");
             count++;
             bottom--;
@@ -71,6 +77,7 @@ public class FTask3 {
                 System.out.print(matrix[i][j] + " ");
                 count++;
             }
+            if (count == total) break;
 
             System.out.print(matrix[i][j] + " ");
             count++;
